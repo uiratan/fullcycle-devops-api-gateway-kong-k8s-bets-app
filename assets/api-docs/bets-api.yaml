@@ -15,7 +15,7 @@ servers:
 
 tags:
   - name: bets
-    # description: Everything about your Bets
+    description: Everything about your Bets
 
 paths:
   /bets:
